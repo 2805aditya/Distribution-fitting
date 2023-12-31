@@ -1,4 +1,4 @@
-**Curve Fitting Project**
+**Curve Fitting **
 
 Overview:
 
